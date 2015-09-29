@@ -1,0 +1,2 @@
+# teramind
+teraMind interview tasks
